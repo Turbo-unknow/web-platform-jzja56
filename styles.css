@@ -1,3 +1,9 @@
+.netherland {
+  color:blue;
+  background:
+  linear-gradient(blue,pink) ;
+  width:35mm;
+}
 * {
   box-sizing: border-box;
 }
